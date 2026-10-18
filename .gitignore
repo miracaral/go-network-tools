@@ -1,0 +1,9 @@
+# binaries
+/port-scanner-*
+/tcp-*
+/worker-pool-demo
+/io-reader-writer-demo
+*.exe
+.DS_Store
+.vscode/
+.idea/
